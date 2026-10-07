@@ -27,6 +27,7 @@ In simple words:
 User → Central Authority → Identity Verification
 ```
 
+
 Example:
 
 A government department or company stores and manages your identity
