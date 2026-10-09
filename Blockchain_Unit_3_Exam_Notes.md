@@ -164,7 +164,7 @@ Different nodes may temporarily see different information because:
 This can temporarily create different views of the latest blockchain
 tip.
 
-## Example
+##Example
 
 Suppose two miners find competing blocks:
 
@@ -187,7 +187,7 @@ the same instant.
 
 Instead, the protocol is designed so that honest nodes can converge on a
 common history.
-
+ 
 ## Exam Definition
 
 > Eventual consistency in Bitcoin refers to the tendency of distributed
