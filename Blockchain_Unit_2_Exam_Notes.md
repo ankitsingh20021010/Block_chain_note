@@ -13,6 +13,7 @@
 information is not completely controlled by one central organization.
 The user can have greater control over their identity and credentials.
 
+
 In simple words:
 
 > **Distributed identity allows users to control and use their digital
